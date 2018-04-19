@@ -8,8 +8,6 @@ public class MultiplierTest {
     @org.junit.Test
     public void Test(){
         multiplier = new Multiplier();
-        int expected = 12;
-        int actual = multiplier.multiply(4,3);
-        assertEquals(expected, actual);
+        assertEquals(12, multiplier.multiply(4,3));
     }
 }
