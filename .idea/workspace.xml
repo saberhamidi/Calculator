@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="431c78b5-2a51-48c2-bcbb-6addc1596c54" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java/com/infosys/calculator/MultiplierTest.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/infosys/calculator/Multiplier.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -21,6 +20,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
               <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Multiplier.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/infosys/calculator/Multiplier.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -63,6 +72,7 @@
         <option value="$PROJECT_DIR$/src/test/java/com/infosys/calculator/DividerTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/infosys/calculator/Divider.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/infosys/calculator/MultiplierTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/infosys/calculator/Multiplier.java" />
       </list>
     </option>
   </component>
@@ -199,7 +209,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.DividerTest">
+  <component name="RunManager" selected="JUnit.MultiplierTest">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -257,6 +267,31 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="PACKAGE_NAME" value="com.infosys.calculator" />
       <option name="MAIN_CLASS_NAME" value="com.infosys.calculator.DividerTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="MultiplierTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.infosys.calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="Calculator" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.infosys.calculator" />
+      <option name="MAIN_CLASS_NAME" value="com.infosys.calculator.MultiplierTest" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
@@ -355,16 +390,18 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="3">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="JUnit.AdderTest" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.SubtractorTest" />
       <item index="2" class="java.lang.String" itemvalue="JUnit.DividerTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.MultiplierTest" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.DividerTest" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.SubtractorTest" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.AdderTest" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.MultiplierTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.DividerTest" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.SubtractorTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.AdderTest" />
       </list>
     </recent_temporary>
   </component>
@@ -401,7 +438,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3911000" />
+    <option name="totallyTimeSpent" value="4079000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -564,6 +601,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/infosys/calculator/Multiplier.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
           <folding />
         </state>
       </provider>
